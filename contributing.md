@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for taking the time to contribute!follow the guidelines:
+Thank you for taking the time to contribute :ok_hand:! Follow the guidelines:
 
 - Search included research papers before adding a new one, as yours may be a duplicate.
 - Only add papers you think are great! Feel welcome to remove entries that you think aren't great!
