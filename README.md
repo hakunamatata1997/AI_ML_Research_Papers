@@ -59,6 +59,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pathnet: evolution channels gradient descent in super neural networks](https://arxiv.org/pdf/1701.08734.pdf)
 - [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
 - [MichiGAN: sampling from disentangled representations of single-cell data using generative adversarial networks(2021)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02373-4#Ack1)
+- [A comprehensive survey and analysis of generative models in machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1574013720303853)
 
 
 ## Statistics
