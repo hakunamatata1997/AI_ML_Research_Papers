@@ -46,7 +46,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
 - [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [The high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
 
 ## Deep Learning
 
@@ -58,6 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full.pdf)
 - [Pathnet: evolution channels gradient descent in super neural networks](https://arxiv.org/pdf/1701.08734.pdf)
 - [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
 - [MichiGAN: sampling from disentangled representations of single-cell data using generative adversarial networks(2021)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02373-4#Ack1)
 - [A comprehensive survey and analysis of generative models in machine learning](https://www.sciencedirect.com/science/article/abs/pii/S1574013720303853)
 
