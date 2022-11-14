@@ -11,9 +11,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Artificial intelligence](#artificial-intelligence)
 - [Big Data](#big-data)
 - [Computer vision](#computer-vision)
-- [Deep Learning](#deep-learning)
 - [Machine Learning](#machine-learning)
-- [Neural networks](#neural-networks)
+- [Deep Learning](#deep-learning)
 - [Statistics](#statistics)
 - [Related](#related)
 
@@ -35,10 +34,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Example-based photometric stereo: shape reconstruction with general, varying brdfs](http://grail.cs.washington.edu/projects/sam/HertzmannSeitzPAMI2005.pdf) - Discusses how you can reconstruct an objects 3d shape just by analyzing how light reflects off an object's surface.
 - [Mask r-cnn](https://arxiv.org/abs/1703.06870)
 
-## Deep Learning
-
-- [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
-
 ## Machine Learning
 
 - [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
@@ -53,7 +48,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
 
-## Neural networks
+## Deep Learning
 
 - [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366)
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
@@ -62,6 +57,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Densely connected convolutional networks](https://arxiv.org/abs/1608.06993)
 - [Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full.pdf)
 - [Pathnet: evolution channels gradient descent in super neural networks](https://arxiv.org/pdf/1701.08734.pdf)
+- [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
+
 
 ## Statistics
 
